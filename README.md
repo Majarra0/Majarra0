@@ -19,10 +19,5 @@
 - **Student Information System** — Role-aware admin/student portal with Django + MySQL and a React/Svelte front. [Backend](https://github.com/Majarra0/SIS-Backend) · [Frontend](https://github.com/Majarra0/SIS-Frontend)
 - **AI Fingerprint Recognition** — Feature extraction + classification pipeline for fingerprint matching. [Code](https://github.com/Majarra0/fingerprocessing)
 
-### Highlights
-- 🏆 Supernova DevSprint — 1st place
-- 🚀 HurryApp Hackathon 2 & 3 — shipped full-stack + AI demos
-- 🤝 GWE Hackathon — rapid team delivery in tight timelines
-
 ### Toolbox
 `Python` • `C#` • `C++` • `Java` • `JavaScript` • `Django` • `FastAPI` • `ASP.NET` • `React` • `Svelte` • `MySQL` • `PostgreSQL` • `SQL Server` • `Redis` • `Windows` • `Linux (Ubuntu)` • `GitHub` • `Railway` • `Visual Studio` • `VS Code` • `Networking basics`
