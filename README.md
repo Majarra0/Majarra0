@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed Oday 👋
+# Hi, I'm Ahmed Oday
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmedeloday-0A66C2?logo=linkedin)](https://www.linkedin.com/in/ahmedeloday/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahmedoday.up.railway.app-4B9AE9?logo=vercel&logoColor=white)](https://ahmedoday.up.railway.app/)
